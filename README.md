@@ -1,6 +1,13 @@
-Je suis actuellement en troisième année de licence au sein du programme CPES Sciences des données, arts et cultures, proposé conjointement par le lycée Louis-le-Grand et l’université PSL. Mes études couvrent à la fois les sciences humaines – comme la littérature et l’histoire de l’art – et les sciences exactes – comme les mathématiques et l’algorithmique.
+Diplômé du CPES Sciences des données, Arts et Cultures entre le lycée Louis-le-Grand et l’université PSL, je suis actuellement étudiant en humanités numériques à l’École nationale des chartes – PSL. 
 
-Au fil de cette formation, je me suis particulièrement orienté vers l’histoire de l’art, à l’époque contemporaine. J’ai également pu mobiliser les outils quantitatifs appris en sciences des données pour mener plusieurs projets de recherche, à la croisée des humanités et de l’analyse computationnelle. Parmi eux, j'ai réalisé un projet de recherche sur le marché de l’art surréaliste, mené sous la direction de Léa Saint-Raymond, MCF en histoire de l'art, à l’université PSL et directrice de l'Observatoire des humanités numériques de l'ENS-PSL, qui mêle analyse économétrique et approche qualitative. Vous trouverez le preprint ici.
-Ces expériences m’ont progressivement conduit à m’intéresser aux méthodes des humanités numériques, qui permettent de croiser approches quantitatives, analyse critique des sources et travail sur les archives, comme en témoigne ce projet.
+## Champ de recherche
 
-Vous trouverez mon curriculum vitae ici. Pour toute question, n’hésitez pas à m’écrire à l’adresse suivante : lazar.vanberchem@psl.eu.
+Mes recherches portent principalement sur l’histoire de l’art à l’époque contemporaine, en particulier sur le XIXe siècle et le début du XXe siècle. Je m’intéresse aux conditions institutionnelles, politiques et économiques de la production artistique.
+
+Je travaille principalement à partir des archives en histoire de l’art en combinant méthodes qualitatives et quantitatives. Mon premier projet de recherche portait ainsi sur le marché de l’art des artistes surréalistes, depuis la création du mouvement jusqu’aux ventes aux enchères contemporaines. Cette étude, associait une analyse économétrique des prix à une approche qualitative de l’histoire du marché de l’art.
+
+Je porte actuellement un projet sur les missions artistiques financées par l’administration française aux XIXe siècle. À partir des dossiers des Archives nationales, j’étudie plus d’un millier de missions en croisant approches quantitatives et qualitatives, notamment leurs acteurs, leurs objectifs et leurs lieux. Je développe dans ce cadre une base de données et une bibliothèque numérique permettant d’en étudier les dimensions prosopographiques, cartographiques et historiques.
+
+## Publications
+Levi Mazloum, S., van Berchem, L. (2026). Du rêve à la réalité : le surréalisme face à l'épreuve du marché de l'art(https://doi.org/10.5281/zenodo.18901247).
+van Berchem, L. (2026). Les missions artistiques (1830-1931). https://datart-france.huma-num.fr/s/missions-artistiques
