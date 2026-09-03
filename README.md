@@ -1,5 +1,5 @@
 # Lazar van Berchem
-Diplômé du CPES Sciences des données, Arts et Cultures entre le lycée Louis-le-Grand et l’université PSL, je suis actuellement étudiant en humanités numériques à l’École nationale des chartes – PSL. 
+Diplômé du CPES *Sciences des données, Arts et Cultures* entre le lycée Louis-le-Grand et l’université PSL, je suis actuellement étudiant en humanités numériques à l’École nationale des chartes – PSL. 
 
 ## Champ de recherche
 Mes recherches portent principalement sur l’histoire de l’art à l’époque contemporaine, en particulier sur le XIXe siècle et le début du XXe siècle. Je m’intéresse aux conditions institutionnelles, politiques et économiques de la production artistique.
