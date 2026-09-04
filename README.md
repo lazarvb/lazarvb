@@ -8,7 +8,7 @@ Je travaille principalement à partir des archives en histoire de l’art en com
 
 Je porte actuellement un projet sur les missions artistiques financées par l’administration française aux XIXe siècle. À partir des dossiers des Archives nationales, j’étudie plus d’un millier de missions en croisant approches quantitatives et qualitatives, notamment leurs acteurs, leurs objectifs et leurs lieux. Je développe dans ce cadre une base de données et une bibliothèque numérique permettant d’en étudier les dimensions prosopographiques, cartographiques et historiques.
 
-## Publications
+## Publications & sites internet
 - Levi Mazloum, S., van Berchem, L. (2026). *[Du rêve à la réalité : le surréalisme face à l'épreuve du marché de l'art](https://doi.org/10.5281/zenodo.18901247)*. Zenodo.
 
 - van Berchem, L. (2026). *[Les missions artistiques (1830-1931)](https://datart-france.huma-num.fr/s/missions-artistiques)*.
