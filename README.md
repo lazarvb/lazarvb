@@ -9,10 +9,10 @@ Je travaille principalement à partir des archives en histoire de l’art en com
 Je porte actuellement un projet sur les missions artistiques financées par l’administration française aux XIXe siècle. À partir des dossiers des Archives nationales, j’étudie plus d’un millier de missions en croisant approches quantitatives et qualitatives, notamment leurs acteurs, leurs objectifs et leurs lieux. Je développe dans ce cadre une base de données et une bibliothèque numérique permettant d’en étudier les dimensions prosopographiques, cartographiques et historiques.
 
 ## Publications & sites internet
-- Levi Mazloum, S., & van Berchem, L. (2026). *[Du rêve à la réalité : le surréalisme face à l'épreuve du marché de l'art](https://doi.org/10.5281/zenodo.18901247)*.
+- Levi Mazloum, S., van Berchem, L. (2026). *[Du rêve à la réalité : le surréalisme face à l'épreuve du marché de l'art](https://doi.org/10.5281/zenodo.18901247)*.
 
 - van Berchem, L. (2026). *[Les missions artistiques (1830-1931)](https://datart-france.huma-num.fr/s/missions-artistiques)*.
 
-- Saint-Raymond, L., & van Berchem, L. (2025). *[Yuanmingyuan 圆明园 at auction](https://easts.huma-num.fr/s/yuanmingyuan)*.
+- Saint-Raymond, L., van Berchem, L. (2025). *[Yuanmingyuan 圆明园 at auction](https://easts.huma-num.fr/s/yuanmingyuan)*.
 
-- Saint-Raymond, L., van Berchem, L. & Viraben, H. (2025). *[DatArt Toulouse](https://datart-france.huma-num.fr/s/toulouse)*.
+- Saint-Raymond, L., van Berchem, L., Viraben, H. (2025). *[DatArt Toulouse](https://datart-france.huma-num.fr/s/toulouse)*.
