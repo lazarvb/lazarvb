@@ -14,3 +14,5 @@ Je porte actuellement un projet sur les missions artistiques financées par l’
 - van Berchem, L. (2026). *[Les missions artistiques (1830-1931)](https://datart-france.huma-num.fr/s/missions-artistiques)*.
 
 - Saint-Raymond, L., & van Berchem, L. (dir.). (2025). *[Yuanmingyuan 圆明园 at auction](https://easts.huma-num.fr/s/yuanmingyuan)*.
+
+- Saint-Raymond, L., van Berchem, L. & Viraben, H. (dir.). (2025). *[DatArt Toulouse](https://datart-france.huma-num.fr/s/toulouse)*.
