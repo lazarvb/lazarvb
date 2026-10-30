@@ -18,3 +18,7 @@ Je porte actuellement un projet sur les missions artistiques financées par l’
 - Saint-Raymond, L., van Berchem, L. (2025). *[Yuanmingyuan 圆明园 at auction](https://easts.huma-num.fr/s/yuanmingyuan)*.
 
 - Saint-Raymond, L., van Berchem, L., Viraben, H. (2025). *[DatArt Toulouse](https://datart-france.huma-num.fr/s/toulouse)*.
+
+## Colloques et journées d’études
+- UPEC, *Les collectionneuses de monnaies et médailles en France et à l’étranger (1862–1937)*, 26 octobre 2026, dans le cadre de la journée d’étude *Le genre dans la numismatique*, organisée par Marc-Antoine Quignodon et Charlotte Rousset, avec Léa Saint-Raymond et Christine Vivet-Peclet.
+- INHA, *Souths At Auction, un projet au service des provenances*, 12 octobre 2026, dans le cadre des *Lundis numériques de l’INHA*, avec Léa Saint-Raymond et Albina Toumarkine.
